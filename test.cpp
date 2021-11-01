@@ -2,8 +2,8 @@
 
 int main (void)
 {
-	cout<<"Hello world\n";
-	
+	cout<<"Hello wooorld\n";
+	cout<<"lol\n";
 	system("Pause");
 	return 0;
 }
